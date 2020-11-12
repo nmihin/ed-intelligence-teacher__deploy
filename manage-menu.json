@@ -22,21 +22,6 @@
         "id": 5,
         "icon": "icon-attendance-status-code",
         "label": "Attendance Status Code"
-      },
-      {
-        "id": 13,
-        "icon": "icon-lesson-plan-overview",
-        "label": "Lesson Plan Overview"
-      },
-      {
-        "id": 15,
-        "icon": "icon-site-map",
-        "label": "Site Map"
-      },
-      {
-        "id": 16,
-        "icon": "icon-tests",
-        "label": "Tests"
       }
     ],
     "menuList": [
@@ -77,16 +62,6 @@
         "id": 3,
         "icon": "icon-assessment-weight",
         "label": "Assessment Weight"
-      },
-      {
-        "id": 5,
-        "icon": "icon-attendance-status-code",
-        "label": "Attendance Status Code"
-      },
-      {
-        "id": 6,
-        "icon": "icon-bulk-photo-upload",
-        "label": "Bulk Photo Upload"
       }
     ]
   }],
@@ -108,17 +83,7 @@
             "label": "Assessment Group"
           }
         ]
-      },
-      {
-        "id": 3,
-        "icon": "icon-assessment-weight",
-        "label": "Assessment Weight"
-      },
-      {
-        "id": 16,
-        "icon": "icon-tests",
-        "label": "Tests"
-      }   
+      }
     ],
     "menuList": [
       {
@@ -165,16 +130,6 @@
         "label": "Attendance Status Code"
       },
       {
-        "id": 10,
-        "icon": "icon-lesson-plan-bank",
-        "label": "Lesson Plan Bank"
-      },
-      {
-        "id": 11,
-        "icon": "icon-add-student",
-        "label": "Add Student"
-      },
-      {
         "id": 12,
         "icon": "icon-lms",
         "label": "LMS"
@@ -199,21 +154,6 @@
             "label": "Assessment Group"
           }
         ]
-      },
-      {
-        "id": 3,
-        "icon": "icon-assessment-weight",
-        "label": "Assessment Weight"
-      },
-      {
-        "id": 8,
-        "icon": "icon-department-manager",
-        "label": "Department Manager"
-      },
-      {
-        "id": 9,
-        "icon": "icon-google-classroom",
-        "label": "Google Classroom"
       },
       {
         "id": 16,
@@ -254,16 +194,6 @@
         ]
       },
       {
-        "id": 7,
-        "icon": "icon-club-manager",
-        "label": "Club Manager"
-      },
-      {
-        "id": 13,
-        "icon": "icon-lesson-plan-overview",
-        "label": "Lesson Plan Overview"
-      },
-      {
         "id": 16,
         "icon": "icon-tests",
         "label": "Tests"
@@ -300,11 +230,6 @@
             "label": "Assessment Group"
           }
         ]
-      },
-      {
-        "id": 7,
-        "icon": "icon-club-manager",
-        "label": "Club Manager"
       },
       {
         "id": 8,
@@ -383,11 +308,6 @@
         ]
       },
       {
-        "id": 3,
-        "icon": "icon-assessment-weight",
-        "label": "Assessment Weight"
-      },
-      {
         "id": 8,
         "icon": "icon-department-manager",
         "label": "Department Manager"
@@ -405,11 +325,6 @@
         "label": "NWEA Student Report"
       },
       {
-        "id": 15,
-        "icon": "icon-site-map",
-        "label": "Site Map"
-      },
-      {
         "id": 16,
         "icon": "icon-tests",
         "label": "Tests"
@@ -422,24 +337,9 @@
         "id": 14,
         "icon": "icon-general",
         "label": "NWEA Student Report"
-      },
-      {
-        "id": 15,
-        "icon": "icon-site-map",
-        "label": "Site Map"
-      },
-      {
-        "id": 16,
-        "icon": "icon-tests",
-        "label": "Tests"
       }
     ],
     "menuList": [
-      {
-        "id": 6,
-        "icon": "icon-bulk-photo-upload",
-        "label": "Bulk Photo Upload"
-      },
       {
         "id": 8,
         "icon": "icon-department-manager",
