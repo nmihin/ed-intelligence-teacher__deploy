@@ -1,162 +1,194 @@
 [
   {
     "sn": 1,
-    "name": "Vivienne Labadie Becker",
+    "name": "Vivienne Labadie",
+    "surname": "Becker",
     "usi": 6942065233,
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "649-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-1.jpg",
-    "guardian": "Henri Mcgowan"
+    "guardian": "Henri Mcgowan",
+    "email": "edintelligence@gmail.com"
   },
   {
     "sn": 2,
-    "name": "Hugh Whelan",
+    "name": "Hugh",
+    "surname": "Whelan",
     "usi": 6942065234,
     "grade": "Two",
     "action": ["edit","preview"],
     "phone": "549-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-2.jpg",
-    "guardian": "Milan Clarkson"
+    "guardian": "Milan Clarkson",
+    "email": "edintelligence@gmail.com"
   },
   {
     "sn": 3,
-    "name": "Gracey Guevara",
+    "name": "Gracey",
+    "surname":"Guevara",
     "usi": 6942065232,
     "grade": "Three",
     "action": ["edit","preview"],
     "phone": "449-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-3.jpg",
-    "guardian": "Milan Clarkson"
+    "guardian": "Milan Clarkson",
+    "email": "edintelligence@gmail.com"
   },
   {
     "sn": 4,
-    "name": "Leanne Lester",
+    "name": "Leanne",
+    "surname":"Lester",
     "usi": 6942065634,
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "349-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-4.jpg",
-    "guardian": "Dominick Whittle"
+    "guardian": "Dominick Whittle",
+    "email": "edintelligence@gmail.com"
   },
   {
     "sn": 5,
-    "name": "Abdirahman Galvan",
+    "name": "Tye",
+    "surname":"Nelson",
     "usi": 6942065734,
     "grade": "Three",
     "action": ["edit","preview"],
     "phone": "249-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-5.jpg",
-    "guardian": "Eshaal Redman"
+    "guardian": "Eshaal Redman",
+    "email": "edintelligence@gmail.com"
   },
   {
     "sn": 6,
-    "name": "Abdirahman Galvan",
+    "name": "Abdirahman",
+    "surname":"Galvan",
     "usi": 6942065234,
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "149-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-6.jpg",
-    "guardian": "Ronnie Oneal"
+    "guardian": "Ronnie Oneal",
+    "email": "edintelligence@gmail.com"
   },
   {
     "sn": 7,
-    "name": "Bronwen Beck",
+    "name": "Bronwen",
+    "surname":"Beck",
     "usi": 6842065234,
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "659-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-7.jpg",
-    "guardian": "Asiya Hale"
+    "guardian": "Asiya Hale",
+    "email": "edintelligence@gmail.com"
   },
   {
     "sn": 8,
-    "name": "Lucia Moore",
+    "name": "Lucia",
+    "surname":"Moore",
     "usi": 6942065234,
     "grade": "Three",
     "action": ["edit","preview"],
     "phone": "669-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-8.jpg",
-    "guardian": "Jamie-Leigh Frey"
+    "guardian": "Jamie-Leigh Frey",
+    "email": "edintelligence@gmail.com"
   },
   {
     "sn": 9,
-    "name": "Veronica Cantrell",
+    "name": "Veronica",
+    "surname":"Cantrell",
     "usi": 6942065234,
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "679-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-9.jpg",
-    "guardian": "Bruno Frazier"
+    "guardian": "Bruno Frazier",
+    "email": "edintelligence@gmail.com"
   },
   {
     "sn": 10,
-    "name": "Alannah Bass",
+    "name": "Alannah",
+    "surname":"Bass",
     "usi": 6942065234,
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "689-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-10.jpg",
-    "guardian": "Aishah Turner"
+    "guardian": "Aishah Turner",
+    "email": "edintelligence@gmail.com"
   },
   {
     "sn": 11,
-    "name": "Perry Devine",
+    "name": "Perry",
+    "surname":"Devine",
     "usi": 6942065234,
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "699-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-11.jpg",
-    "guardian": "Neal Lambert"
+    "guardian": "Neal Lambert",
+    "email": "edintelligence@gmail.com"
   },
   {
     "sn": 12,
-    "name": "Cora Chan",
+    "name": "Cora",
+    "surname":"Chan",
     "usi": 6942065234,
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "611-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-12.jpg",
-    "guardian": "Darryl Delarosa"
+    "guardian": "Darryl Delarosa",
+    "email": "edintelligence@gmail.com"
   },
   {
     "sn": 13,
-    "name": "Brett Haynes",
+    "name": "Brett",
+    "surname":"Haynes",
     "usi": 6942065234,
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "622-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-13.jpg",
-    "guardian": "Kiri Thorpe"
+    "guardian": "Kiri Thorpe",
+    "email": "edintelligence@gmail.com"
   },
   {
     "sn": 14,
-    "name": "Gus Montgomery",
+    "name": "Gus",
+    "surname":"Montgomery",
     "usi": 6942065234,
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "633-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-14.jpg",
-    "guardian": "Scarlett Snow"
+    "guardian": "Scarlett Snow",
+    "email": "edintelligence@gmail.com"
   },
   {
     "sn": 15,
-    "name": "Rogan Marin",
+    "name": "Rogan",
+    "surname":"Marin",
     "usi": 6942065234,
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "644-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-15.jpg",
-    "guardian": "Rhea Kirkpatrick"
+    "guardian": "Rhea Kirkpatrick",
+    "email": "edintelligence@gmail.com"
   },
   {
     "sn": 16,
-    "name": "Lyra Peterson",
+    "name": "Lyra",
+    "surname":"Peterson",
     "usi": 6942065234,
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "655-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-16.jpg",
-    "guardian": "Isla-Grace Willis"
+    "guardian": "Isla-Grace Willis",
+    "email": "edintelligence@gmail.com"
   }
 ]
