@@ -6,7 +6,7 @@
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "649-531-8188",
-    "avatar": "../avatar-1.jpg",
+    "avatar": "../assets/images/avatars/avatar.jpg",
     "guardian-name": "Henri Mcgowan"
   },
   {
@@ -16,7 +16,7 @@
     "grade": "Two",
     "action": ["edit","preview"],
     "phone": "549-531-8188",
-    "avatar": "../avatar-2.jpg",
+    "avatar": "../assets/images/avatars/avatar-2.jpg",
     "guardian-name": "Milan Clarkson"
   },
   {
@@ -26,7 +26,7 @@
     "grade": "Three",
     "action": ["edit","preview"],
     "phone": "449-531-8188",
-    "avatar": "../avatar-3.jpg",
+    "avatar": "../assets/images/avatars/avatar-3.jpg",
     "guardian-name": "Milan Clarkson"
   },
   {
@@ -36,7 +36,7 @@
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "349-531-8188",
-    "avatar": "../avatar-4.jpg",
+    "avatar": "../assets/images/avatars/avatar-4.jpg",
     "guardian-name": "Dominick Whittle"
   },
   {
@@ -46,7 +46,7 @@
     "grade": "Three",
     "action": ["edit","preview"],
     "phone": "249-531-8188",
-    "avatar": "../avatar-5.jpg",
+    "avatar": "../assets/images/avatars/avatar-5.jpg",
     "guardian-name": "Eshaal Redman"
   },
   {
@@ -56,7 +56,7 @@
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "149-531-8188",
-    "avatar": "../avatar-6.jpg",
+    "avatar": "../assets/images/avatars/avatar-6.jpg",
     "guardian-name": "Ronnie Oneal"
   },
   {
@@ -66,7 +66,7 @@
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "659-531-8188",
-    "avatar": "../avatar-7.jpg",
+    "avatar": "../assets/images/avatars/avatar-7.jpg",
     "guardian-name": "Asiya Hale"
   },
   {
@@ -76,7 +76,7 @@
     "grade": "Three",
     "action": ["edit","preview"],
     "phone": "669-531-8188",
-    "avatar": "../avatar-8.jpg",
+    "avatar": "../assets/images/avatars/avatar-8.jpg",
     "guardian-name": "Jamie-Leigh Frey"
   },
   {
@@ -86,7 +86,7 @@
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "679-531-8188",
-    "avatar": "../avatar-9.jpg",
+    "avatar": "../assets/images/avatars/avatar-9.jpg",
     "guardian-name": "Bruno Frazier"
   },
   {
@@ -96,7 +96,7 @@
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "689-531-8188",
-    "avatar": "../avatar-10.jpg",
+    "avatar": "../assets/images/avatars/avatar-10.jpg",
     "guardian-name": "Aishah Turner"
   },
   {
@@ -106,7 +106,7 @@
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "699-531-8188",
-    "avatar": "../avatar-11.jpg",
+    "avatar": "../assets/images/avatars/avatar-11.jpg",
     "guardian-name": "Neal Lambert"
   },
   {
@@ -116,7 +116,7 @@
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "611-531-8188",
-    "avatar": "../avatar-12.jpg",
+    "avatar": "../assets/images/avatars/avatar-12.jpg",
     "guardian-name": "Darryl Delarosa"
   },
   {
@@ -126,7 +126,7 @@
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "622-531-8188",
-    "avatar": "../avatar-13.jpg",
+    "avatar": "../assets/images/avatars/avatar-13.jpg",
     "guardian-name": "Kiri Thorpe"
   },
   {
@@ -136,7 +136,7 @@
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "633-531-8188",
-    "avatar": "../avatar-14.jpg",
+    "avatar": "../assets/images/avatars/avatar-14.jpg",
     "guardian-name": "Scarlett Snow"
   },
   {
@@ -146,7 +146,7 @@
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "644-531-8188",
-    "avatar": "../avatar-15.jpg",
+    "avatar": "../assets/images/avatars/avatar-15.jpg",
     "guardian-name": "Rhea Kirkpatrick"
   },
   {
@@ -156,7 +156,7 @@
     "grade": "One",
     "action": ["edit","preview"],
     "phone": "655-531-8188",
-    "avatar": "../avatar-16.jpg",
+    "avatar": "../assets/images/avatars/avatar-16.jpg",
     "guardian-name": "Isla-Grace Willis"
   }
 ]
