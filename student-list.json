@@ -9,7 +9,9 @@
     "phone": "649-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-1.jpg",
     "guardian": "Henri Mcgowan",
-    "email": "edintelligence@gmail.com"
+    "email": "edintelligence@gmail.com",
+    "room": "jo baker",
+    "class-days": ["Monday","Thursday","Friday"]
   },
   {
     "sn": 2,
@@ -21,7 +23,9 @@
     "phone": "549-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-2.jpg",
     "guardian": "Milan Clarkson",
-    "email": "edintelligence@gmail.com"
+    "email": "edintelligence@gmail.com",
+    "room": "jo baker",
+    "class-days": ["Monday","Tuesday","Wednsday","Thursday"]
   },
   {
     "sn": 3,
@@ -33,7 +37,9 @@
     "phone": "449-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-3.jpg",
     "guardian": "Milan Clarkson",
-    "email": "edintelligence@gmail.com"
+    "email": "edintelligence@gmail.com",
+    "room": "jo baker",
+    "class-days": ["Monday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 4,
@@ -45,7 +51,8 @@
     "phone": "349-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-4.jpg",
     "guardian": "Dominick Whittle",
-    "email": "edintelligence@gmail.com"
+    "email": "edintelligence@gmail.com",
+    "class-days": ["Monday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 5,
@@ -57,7 +64,9 @@
     "phone": "249-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-5.jpg",
     "guardian": "Eshaal Redman",
-    "email": "edintelligence@gmail.com"
+    "email": "edintelligence@gmail.com",
+    "room": "jo baker",
+    "class-days": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 6,
@@ -69,7 +78,9 @@
     "phone": "149-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-6.jpg",
     "guardian": "Ronnie Oneal",
-    "email": "edintelligence@gmail.com"
+    "email": "edintelligence@gmail.com",
+    "room": "jo baker",
+    "class-days": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 7,
@@ -81,7 +92,9 @@
     "phone": "659-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-7.jpg",
     "guardian": "Asiya Hale",
-    "email": "edintelligence@gmail.com"
+    "email": "edintelligence@gmail.com",
+    "room": "jo baker",
+    "class-days": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 8,
@@ -93,7 +106,9 @@
     "phone": "669-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-8.jpg",
     "guardian": "Jamie-Leigh Frey",
-    "email": "edintelligence@gmail.com"
+    "email": "edintelligence@gmail.com",
+    "room": "jo baker",
+    "class-days": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 9,
@@ -105,7 +120,9 @@
     "phone": "679-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-9.jpg",
     "guardian": "Bruno Frazier",
-    "email": "edintelligence@gmail.com"
+    "email": "edintelligence@gmail.com",
+    "room": "jo baker",
+    "class-days": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 10,
@@ -117,7 +134,9 @@
     "phone": "689-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-10.jpg",
     "guardian": "Aishah Turner",
-    "email": "edintelligence@gmail.com"
+    "email": "edintelligence@gmail.com",
+    "room": "jo baker",
+    "class-days": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 11,
@@ -129,7 +148,9 @@
     "phone": "699-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-11.jpg",
     "guardian": "Neal Lambert",
-    "email": "edintelligence@gmail.com"
+    "email": "edintelligence@gmail.com",
+    "room": "jo baker",
+    "class-days": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 12,
@@ -141,7 +162,9 @@
     "phone": "611-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-12.jpg",
     "guardian": "Darryl Delarosa",
-    "email": "edintelligence@gmail.com"
+    "email": "edintelligence@gmail.com",
+    "room": "jo baker",
+    "class-days": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 13,
@@ -153,7 +176,9 @@
     "phone": "622-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-13.jpg",
     "guardian": "Kiri Thorpe",
-    "email": "edintelligence@gmail.com"
+    "email": "edintelligence@gmail.com",
+    "room": "jo baker",
+    "class-days": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 14,
@@ -165,7 +190,9 @@
     "phone": "633-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-14.jpg",
     "guardian": "Scarlett Snow",
-    "email": "edintelligence@gmail.com"
+    "email": "edintelligence@gmail.com",
+    "room": "jo baker",
+    "class-days": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 15,
@@ -177,7 +204,9 @@
     "phone": "644-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-15.jpg",
     "guardian": "Rhea Kirkpatrick",
-    "email": "edintelligence@gmail.com"
+    "email": "edintelligence@gmail.com",
+    "room": "jo baker",
+    "class-days": ["Monday","Tuesday","Wednsday"]
   },
   {
     "sn": 16,
@@ -189,6 +218,8 @@
     "phone": "655-531-8188",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-16.jpg",
     "guardian": "Isla-Grace Willis",
-    "email": "edintelligence@gmail.com"
+    "email": "edintelligence@gmail.com",
+    "room": "jo baker",
+    "class-days": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
   }
 ]
