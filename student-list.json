@@ -11,7 +11,7 @@
     "guardian": "Henri Mcgowan",
     "email": "edintelligence@gmail.com",
     "room": "jo baker",
-    "class-days": ["Monday","Thursday","Friday"]
+    "classdays": ["Monday","Thursday","Friday"]
   },
   {
     "sn": 2,
@@ -25,7 +25,7 @@
     "guardian": "Milan Clarkson",
     "email": "edintelligence@gmail.com",
     "room": "jo baker",
-    "class-days": ["Monday","Tuesday","Wednsday","Thursday"]
+    "classdays": ["Monday","Tuesday","Wednsday","Thursday"]
   },
   {
     "sn": 3,
@@ -39,7 +39,7 @@
     "guardian": "Milan Clarkson",
     "email": "edintelligence@gmail.com",
     "room": "jo baker",
-    "class-days": ["Monday","Wednsday","Thursday","Friday"]
+    "classdays": ["Monday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 4,
@@ -52,7 +52,7 @@
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-4.jpg",
     "guardian": "Dominick Whittle",
     "email": "edintelligence@gmail.com",
-    "class-days": ["Monday","Wednsday","Thursday","Friday"]
+    "classdays": ["Monday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 5,
@@ -66,7 +66,7 @@
     "guardian": "Eshaal Redman",
     "email": "edintelligence@gmail.com",
     "room": "jo baker",
-    "class-days": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
+    "classdays": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 6,
@@ -80,7 +80,7 @@
     "guardian": "Ronnie Oneal",
     "email": "edintelligence@gmail.com",
     "room": "jo baker",
-    "class-days": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
+    "classdays": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 7,
@@ -94,7 +94,7 @@
     "guardian": "Asiya Hale",
     "email": "edintelligence@gmail.com",
     "room": "jo baker",
-    "class-days": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
+    "classdays": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 8,
@@ -108,7 +108,7 @@
     "guardian": "Jamie-Leigh Frey",
     "email": "edintelligence@gmail.com",
     "room": "jo baker",
-    "class-days": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
+    "classdays": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 9,
@@ -122,7 +122,7 @@
     "guardian": "Bruno Frazier",
     "email": "edintelligence@gmail.com",
     "room": "jo baker",
-    "class-days": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
+    "classdays": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 10,
@@ -136,7 +136,7 @@
     "guardian": "Aishah Turner",
     "email": "edintelligence@gmail.com",
     "room": "jo baker",
-    "class-days": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
+    "classdays": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 11,
@@ -150,7 +150,7 @@
     "guardian": "Neal Lambert",
     "email": "edintelligence@gmail.com",
     "room": "jo baker",
-    "class-days": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
+    "classdays": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 12,
@@ -164,7 +164,7 @@
     "guardian": "Darryl Delarosa",
     "email": "edintelligence@gmail.com",
     "room": "jo baker",
-    "class-days": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
+    "classdays": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 13,
@@ -178,7 +178,7 @@
     "guardian": "Kiri Thorpe",
     "email": "edintelligence@gmail.com",
     "room": "jo baker",
-    "class-days": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
+    "classdays": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 14,
@@ -192,7 +192,7 @@
     "guardian": "Scarlett Snow",
     "email": "edintelligence@gmail.com",
     "room": "jo baker",
-    "class-days": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
+    "classdays": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
   },
   {
     "sn": 15,
@@ -206,7 +206,7 @@
     "guardian": "Rhea Kirkpatrick",
     "email": "edintelligence@gmail.com",
     "room": "jo baker",
-    "class-days": ["Monday","Tuesday","Wednsday"]
+    "classdays": ["Monday","Tuesday","Wednsday"]
   },
   {
     "sn": 16,
@@ -220,6 +220,6 @@
     "guardian": "Isla-Grace Willis",
     "email": "edintelligence@gmail.com",
     "room": "jo baker",
-    "class-days": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
+    "classdays": ["Monday","Tuesday","Wednsday","Thursday","Friday"]
   }
 ]
