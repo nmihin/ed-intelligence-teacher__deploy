@@ -1,7 +1,7 @@
 [
   {
     "sn": 1,
-    "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-1.jpg",
     "atRiskIndicator": true,
     "birthDate": "2020-12-21",
     "category": "category1",
