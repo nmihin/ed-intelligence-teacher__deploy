@@ -6,7 +6,7 @@
                 "id": 1,
                 "homeroom": "jo baker",
                 "period": "2nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "12/02/2020",
                 "status": "Pending",
                 "action": ["view","edit","feedbackfollowup","listfollowup","delete"]
@@ -15,7 +15,7 @@
                 "id": 2,
                 "homeroom": "jo baker",
                 "period": "1nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "10/02/2020",
                 "status": "Pending",
                 "action": ["view","edit"]
@@ -28,7 +28,7 @@
                 "id": 1,
                 "homeroom": "jo baker",
                 "period": "2nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "12/02/2020",
                 "status": "Pending",
                 "action": ["view","edit","feedbackfollowup","listfollowup","delete"]
@@ -37,7 +37,7 @@
                 "id": 2,
                 "homeroom": "jo baker",
                 "period": "1nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "10/02/2020",
                 "status": "Pending",
                 "action": ["view","edit"]
@@ -50,7 +50,7 @@
                 "id": 1,
                 "homeroom": "jo baker",
                 "period": "2nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "12/02/2020",
                 "status": "Pending",
                 "action": ["view","edit","feedbackfollowup","listfollowup","delete"]
@@ -59,7 +59,7 @@
                 "id": 2,
                 "homeroom": "jo baker",
                 "period": "1nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "10/02/2020",
                 "status": "Pending",
                 "action": ["view","edit"]
@@ -72,7 +72,7 @@
                 "id": 1,
                 "homeroom": "jo baker",
                 "period": "2nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "12/02/2020",
                 "status": "Pending",
                 "action": ["view","edit","feedbackfollowup","listfollowup","delete"]
@@ -81,7 +81,7 @@
                 "id": 2,
                 "homeroom": "jo baker",
                 "period": "1nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "10/02/2020",
                 "status": "Pending",
                 "action": ["view","edit"]
@@ -94,7 +94,7 @@
                 "id": 1,
                 "homeroom": "jo baker",
                 "period": "2nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "12/02/2020",
                 "status": "Pending",
                 "action": ["view","edit","feedbackfollowup","listfollowup","delete"]
@@ -103,7 +103,7 @@
                 "id": 2,
                 "homeroom": "jo baker",
                 "period": "1nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "10/02/2020",
                 "status": "Pending",
                 "action": ["view","edit"]
@@ -116,7 +116,7 @@
                 "id": 1,
                 "homeroom": "jo baker",
                 "period": "2nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "12/02/2020",
                 "status": "Pending",
                 "action": ["view","edit","feedbackfollowup","listfollowup","delete"]
@@ -125,7 +125,7 @@
                 "id": 2,
                 "homeroom": "jo baker",
                 "period": "1nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "10/02/2020",
                 "status": "Pending",
                 "action": ["view","edit"]
@@ -138,7 +138,7 @@
                 "id": 1,
                 "homeroom": "jo baker",
                 "period": "2nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "12/02/2020",
                 "status": "Pending",
                 "action": ["view","edit","feedbackfollowup","listfollowup","delete"]
@@ -147,7 +147,7 @@
                 "id": 2,
                 "homeroom": "jo baker",
                 "period": "1nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "10/02/2020",
                 "status": "Pending",
                 "action": ["view","edit"]
@@ -160,7 +160,7 @@
                 "id": 1,
                 "homeroom": "jo baker",
                 "period": "2nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "12/02/2020",
                 "status": "Pending",
                 "action": ["view","edit","feedbackfollowup","listfollowup","delete"]
@@ -169,7 +169,7 @@
                 "id": 2,
                 "homeroom": "jo baker",
                 "period": "1nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "10/02/2020",
                 "status": "Pending",
                 "action": ["view","edit"]
@@ -182,7 +182,7 @@
                 "id": 1,
                 "homeroom": "jo baker",
                 "period": "2nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "12/02/2020",
                 "status": "Pending",
                 "action": ["view","edit","feedbackfollowup","listfollowup","delete"]
@@ -191,7 +191,7 @@
                 "id": 2,
                 "homeroom": "jo baker",
                 "period": "1nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "10/02/2020",
                 "status": "Pending",
                 "action": ["view","edit"]
@@ -204,7 +204,7 @@
                 "id": 1,
                 "homeroom": "jo baker",
                 "period": "2nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "12/02/2020",
                 "status": "Pending",
                 "action": ["view","edit","feedbackfollowup","listfollowup","delete"]
@@ -213,7 +213,7 @@
                 "id": 2,
                 "homeroom": "jo baker",
                 "period": "1nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "10/02/2020",
                 "status": "Pending",
                 "action": ["view","edit"]
@@ -226,7 +226,7 @@
                 "id": 1,
                 "homeroom": "jo baker",
                 "period": "2nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "12/02/2020",
                 "status": "Pending",
                 "action": ["view","edit","feedbackfollowup","listfollowup","delete"]
@@ -235,7 +235,7 @@
                 "id": 2,
                 "homeroom": "jo baker",
                 "period": "1nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "10/02/2020",
                 "status": "Pending",
                 "action": ["view","edit"]
@@ -248,7 +248,7 @@
                 "id": 1,
                 "homeroom": "jo baker",
                 "period": "2nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "12/02/2020",
                 "status": "Pending",
                 "action": ["view","edit","feedbackfollowup","listfollowup","delete"]
@@ -257,7 +257,7 @@
                 "id": 2,
                 "homeroom": "jo baker",
                 "period": "1nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "10/02/2020",
                 "status": "Pending",
                 "action": ["view","edit"]
@@ -270,7 +270,7 @@
                 "id": 1,
                 "homeroom": "jo baker",
                 "period": "2nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "12/02/2020",
                 "status": "Pending",
                 "action": ["view","edit","feedbackfollowup","listfollowup","delete"]
@@ -279,7 +279,7 @@
                 "id": 2,
                 "homeroom": "jo baker",
                 "period": "1nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "10/02/2020",
                 "status": "Pending",
                 "action": ["view","edit"]
@@ -292,7 +292,7 @@
                 "id": 1,
                 "homeroom": "jo baker",
                 "period": "2nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "12/02/2020",
                 "status": "Pending",
                 "action": ["view","edit","feedbackfollowup","listfollowup","delete"]
@@ -301,7 +301,7 @@
                 "id": 2,
                 "homeroom": "jo baker",
                 "period": "1nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "10/02/2020",
                 "status": "Pending",
                 "action": ["view","edit"]
@@ -314,7 +314,7 @@
                 "id": 1,
                 "homeroom": "jo baker",
                 "period": "2nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "12/02/2020",
                 "status": "Pending",
                 "action": ["view","edit","feedbackfollowup","listfollowup","delete"]
@@ -323,7 +323,7 @@
                 "id": 2,
                 "homeroom": "jo baker",
                 "period": "1nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "10/02/2020",
                 "status": "Pending",
                 "action": ["view","edit"]
@@ -336,7 +336,7 @@
                 "id": 1,
                 "homeroom": "jo baker",
                 "period": "2nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "12/02/2020",
                 "status": "Pending",
                 "action": ["view","edit","feedbackfollowup","listfollowup","delete"]
@@ -345,7 +345,7 @@
                 "id": 2,
                 "homeroom": "jo baker",
                 "period": "1nd Period",
-                "phone": "Family Phone Call",
+                "type": "Family type Call",
                 "occureddate": "10/02/2020",
                 "status": "Pending",
                 "action": ["view","edit"]
