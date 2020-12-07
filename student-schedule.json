@@ -1,152 +1,147 @@
 [
   {
-    "monday": [{
-      "firstPeriod":[{
+    "firstPeriod": [{
+      "monday":[{
         "room": "jo baker",
         "subject": "English",
         "time": "11:40:00 - 12:00:00"
       }],
-      "secondPeriod":[{
+      "tuesday":[{
         "room": "jo baker",
         "subject": "Mathematics",
         "time": "12:10:00 - 13:30:00"
       }],      
-      "thirdPeriod":[{
+      "wednsday":[{
         "room": "jo baker",
         "subject": "Mathematics",
         "time": "12:10:00 - 13:30:00"
       }], 
-      "fourthPeriod":[{
+      "thursday":[{
         "room": "jo baker",
         "subject": "Mathematics",
         "time": "12:10:00 - 13:30:00"
       }],
-      "fifthPeriod":[{
+      "friday":[{
         "room": "jo baker",
         "subject": "Mathematics",
         "time": "12:10:00 - 13:30:00"
-      }],
-      "break":"--"
+      }]
     }]
   },
   {
-    "tuesday": [{
-      "firstPeriod":[{
+    "secondPeriod": [{
+      "monday":[{
         "room": "jo baker",
         "subject": "English",
         "time": "11:40:00 - 12:00:00"
       }],
-      "secondPeriod":[{
+      "tuesday":[{
         "room": "jo baker",
         "subject": "Mathematics",
         "time": "12:10:00 - 13:30:00"
       }],      
-      "thirdPeriod":[{
+      "wednsday":[{
         "room": "jo baker",
         "subject": "Mathematics",
         "time": "12:10:00 - 13:30:00"
       }], 
-      "fourthPeriod":[{
+      "thursday":[{
         "room": "jo baker",
         "subject": "Mathematics",
         "time": "12:10:00 - 13:30:00"
       }],
-      "fifthPeriod":[{
+      "friday":[{
         "room": "jo baker",
         "subject": "Mathematics",
         "time": "12:10:00 - 13:30:00"
-      }],
-      "break":"--"
+      }]
     }]
   },
   {
-    "wednsday": [{
-      "firstPeriod":[{
+    "thirdPeriod": [{
+      "monday":[{
         "room": "jo baker",
         "subject": "English",
         "time": "11:40:00 - 12:00:00"
       }],
-      "secondPeriod":[{
+      "tuesday":[{
         "room": "jo baker",
         "subject": "Mathematics",
         "time": "12:10:00 - 13:30:00"
       }],      
-      "thirdPeriod":[{
+      "wednsday":[{
         "room": "jo baker",
         "subject": "Mathematics",
         "time": "12:10:00 - 13:30:00"
       }], 
-      "fourthPeriod":[{
+      "thursday":[{
         "room": "jo baker",
         "subject": "Mathematics",
         "time": "12:10:00 - 13:30:00"
       }],
-      "fifthPeriod":[{
+      "friday":[{
         "room": "jo baker",
         "subject": "Mathematics",
         "time": "12:10:00 - 13:30:00"
-      }],
-      "break":"--"
+      }]
     }]
   },
   {
-    "thursday": [{
-      "firstPeriod":[{
+    "fourthPeriod": [{
+      "monday":[{
         "room": "jo baker",
         "subject": "English",
         "time": "11:40:00 - 12:00:00"
       }],
-      "secondPeriod":[{
+      "tuesday":[{
         "room": "jo baker",
         "subject": "Mathematics",
         "time": "12:10:00 - 13:30:00"
       }],      
-      "thirdPeriod":[{
+      "wednsday":[{
         "room": "jo baker",
         "subject": "Mathematics",
         "time": "12:10:00 - 13:30:00"
       }], 
-      "fourthPeriod":[{
+      "thursday":[{
         "room": "jo baker",
         "subject": "Mathematics",
         "time": "12:10:00 - 13:30:00"
       }],
-      "fifthPeriod":[{
+      "friday":[{
         "room": "jo baker",
         "subject": "Mathematics",
         "time": "12:10:00 - 13:30:00"
-      }],
-      "break":"--"
+      }]
     }]
   },
   {
-    "friday": [{
-      "firstPeriod":[{
+    "fifthPeriod": [{
+      "monday":[{
         "room": "jo baker",
         "subject": "English",
         "time": "11:40:00 - 12:00:00"
       }],
-      "secondPeriod":[{
+      "tuesday":[{
         "room": "jo baker",
         "subject": "Mathematics",
         "time": "12:10:00 - 13:30:00"
       }],      
-      "thirdPeriod":[{
+      "wednsday":[{
         "room": "jo baker",
         "subject": "Mathematics",
         "time": "12:10:00 - 13:30:00"
       }], 
-      "fourthPeriod":[{
+      "thursday":[{
         "room": "jo baker",
         "subject": "Mathematics",
         "time": "12:10:00 - 13:30:00"
       }],
-      "fifthPeriod":[{
+      "friday":[{
         "room": "jo baker",
         "subject": "Mathematics",
         "time": "12:10:00 - 13:30:00"
-      }],
-      "break":"--"
+      }]
     }]
   }
 ]
