@@ -5,7 +5,7 @@
     "surname": "Becker",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-1.jpg",
     "status": "Present",
-    "reason": "Status Code"
+    "reason": "[PF] Present Full"
   },
   {
     "sn": 2,
@@ -13,7 +13,7 @@
     "surname": "Whelan",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-2.jpg",
     "status": "Present",
-    "reason": "Status Code"
+    "reason": "[PF] Present Full"
   },
   {
     "sn": 3,
@@ -21,7 +21,7 @@
     "surname":"Guevara",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-3.jpg",
     "status": "Present",
-    "reason": "Status Code"
+    "reason": "[PF] Present Full"
   },
   {
     "sn": 4,
@@ -29,7 +29,7 @@
     "surname":"Lester",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-4.jpg",
     "status": "Present",
-    "reason": "Status Code"
+    "reason": "[PPE] Present Partial Excused"
   },
   {
     "sn": 5,
@@ -37,7 +37,7 @@
     "surname":"Nelson",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-5.jpg",
     "status": "Present",
-    "reason": "Status Code"
+    "reason": "[PPE] Present Partial Excused"
   },
   {
     "sn": 6,
@@ -45,7 +45,7 @@
     "surname":"Galvan",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-6.jpg",
     "status": "Present",
-    "reason": "Status Code"
+    "reason": "[PPU] Present Partial Unexcused"
   },
   {
     "sn": 7,
@@ -53,7 +53,7 @@
     "surname":"Beck",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-7.jpg",
     "status": "Present",
-    "reason": "Status Code"
+    "reason": "[PPU] Present Partial Unexcused"
   },
   {
     "sn": 8,
@@ -61,7 +61,7 @@
     "surname":"Moore",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-8.jpg",
     "status": "Present",
-    "reason": "Status Code"
+    "reason": "[PPU] Present Partial Unexcused"
   },
   {
     "sn": 9,
@@ -69,7 +69,7 @@
     "surname":"Cantrell",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-9.jpg",
     "status": "Present",
-    "reason": "Status Code"
+    "reason": "[PPU] Present Partial Unexcused"
   },
   {
     "sn": 10,
@@ -77,7 +77,7 @@
     "surname":"Bass",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-10.jpg",
     "status": "Present",
-    "reason": "Status Code"
+    "reason": "[PPU] Present Partial Unexcused"
   },
   {
     "sn": 11,
@@ -85,7 +85,7 @@
     "surname":"Devine",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-11.jpg",
     "status": "Present",
-    "reason": "Status Code"
+    "reason": "[PPU] Present Partial Unexcused"
   },
   {
     "sn": 12,
@@ -93,7 +93,7 @@
     "surname":"Chan",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-12.jpg",
     "status": "Present",
-    "reason": "Status Code"
+    "reason": "[PPU] Present Partial Unexcused"
   },
   {
     "sn": 13,
@@ -101,7 +101,7 @@
     "surname":"Haynes",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-13.jpg",
     "status": "Present",
-    "reason": "Status Code"
+    "reason": "[PPU] Present Partial Unexcused"
   },
   {
     "sn": 14,
@@ -109,7 +109,7 @@
     "surname":"Montgomery",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-14.jpg",
     "status": "Present",
-    "reason": "Status Code"
+    "reason": "[PPU] Present Partial Unexcused"
   },
   {
     "sn": 15,
@@ -117,7 +117,7 @@
     "surname":"Marin",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-15.jpg",
     "status": "Present",
-    "reason": "Status Code"
+    "reason": "[PPU] Present Partial Unexcused"
   },
   {
     "sn": 16,
@@ -125,6 +125,6 @@
     "surname":"Peterson",
     "avatar": "https://raw.githubusercontent.com/nmihin/ed-intelligence-teacher__deploy/master/assets/images/avatars/avatar-16.jpg",
     "status": "Present",
-    "reason": "Status Code"
+    "reason": "[PPU] Present Partial Unexcused"
   }
 ]
