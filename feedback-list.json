@@ -72,7 +72,7 @@
                 "homeroom": "jo baker",
                 "period": "2nd Period",
                 "incidentStatus": "Pending",
-                "action": ["view","edit"]
+                "action": ["view","edit","feedbackfollowup","listfollowup","delete"]
               },
               {
                 "id": 2,
@@ -144,7 +144,7 @@
                 "homeroom": "jo baker",
                 "period": "2nd Period",
                 "incidentStatus": "Pending",
-                "action": ["view","edit"]
+                "action": ["view","edit","feedbackfollowup","listfollowup","delete"]
               },
               {
                 "id": 2,
